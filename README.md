@@ -79,5 +79,5 @@ To analyze banking loan data and deliver business insights on:
 
 **Vishal Vijay Todkar**  
 📚 BBA (Marketing) | Aspiring Business Analyst  
-🌐 [LinkedIn](https://www.linkedin.com/in/vishal12102003)  
+🌐 [LinkedIn](www.linkedin.com/in/vishaltodkar)  
 📊 Passionate about turning data into insights.
